@@ -1,6 +1,8 @@
 # Smart-Farming
 This project focuses on detecting plant leaf diseases using image data and deep learning. The goal is to help farmers identify diseases early by analyzing visual symptoms on leaf surfaces, which are often the first indicators of crop health problems.
 
+The dataset used for this project is Plantvillage dataset.
+
 Used a Convolutional Neural Network (CNN) trained on a labeled dataset of leaf images containing both healthy and diseased samples. The input images undergo preprocessing steps such as:
 
 Resizing
